@@ -2,4 +2,11 @@
     <string name="app_name">MyFirstApp</string>
     <string name="TextoBienvenida">Welcome to the Xavineta</string>
     <string name="DescripcionImagen" translatable="false">Xavi Hernandez</string>
+    <string name="Nome">Name: </string>
+    <string name="Apell">Last Name: </string>
+    <string name="Comp">Choose Favorite Tournament</string>
+    <string name="Liga" translatable="false">La Liga</string>
+    <string name="CR" translatable="false">Copa del Rey</string>
+    <string name="botonEnviar">Send</string>
+    <string name="DescripcionBoton" translatable="false">Check Button</string>
 </resources>

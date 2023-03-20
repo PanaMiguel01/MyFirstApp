@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">Mi Primera App</string>
     <string name="TextoBienvenida">Bienvenido a la Xavineta</string>
+    <string name="Nome">Nombre: </string>
+    <string name="Apell">Apellido: </string>
+    <string name="Comp">Escoga la competición favorita</string>
+    <string name="botonEnviar">Enviar</string>
 </resources>
